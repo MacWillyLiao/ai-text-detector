@@ -48,7 +48,7 @@ A full-stack project for detecting AI-generated text. Includes data collection, 
 
 ## 模型訓練
 
-在 Google Colab 端運行，詳細請見 [model.ipynb](/src/model.ipynb)。 
+在 Google Colab 端運行。程式碼：[model.ipynb](/src/model.ipynb)。 
 
  `model.ipynb` 內容：
 - 將預處理 (Data Preprocessing) 好的資料切分訓練集和測試集。
@@ -58,7 +58,7 @@ A full-stack project for detecting AI-generated text. Includes data collection, 
 
 ## 前端介面
 
-在本地端運行，詳細請見 [frontend.html](/src/frontend.html)。 
+在本地端運行。程式碼：[frontend.html](/src/frontend.html)。 
 
 `frontend.html` 內容：
 - 將使用者貼上的文本以句號做切分，一句一句的丟入後端處理。
@@ -66,15 +66,11 @@ A full-stack project for detecting AI-generated text. Includes data collection, 
 
 網頁：
 
----
-
 <img src="images/fig4.png" alt="示意圖" width="600">
-
----
 
 ## 後端部署
 
-在 Google Colab 端運行，詳細請見 [backend.ipynb](/src/backend.ipynb)。 
+在 Google Colab 端運行。程式碼：[backend.ipynb](/src/backend.ipynb)。 
 
 `backend.ipynb` 內容：
 - 使用 Python Flask。
