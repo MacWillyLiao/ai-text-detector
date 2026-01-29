@@ -64,7 +64,7 @@ A full-stack project for detecting AI-generated text. Includes data collection, 
 - 將使用者貼上的文本以句號做切分，一句一句的丟入後端處理。
 - 使用 Ngork 免費版連結前後端。
 
-網頁：
+**網頁**：
 
 <img src="images/fig4.png" alt="示意圖" width="600">
 
