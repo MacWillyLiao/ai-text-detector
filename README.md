@@ -79,4 +79,4 @@ A full-stack project for detecting AI-generated text. Includes data collection, 
 - 回傳預測結果 (0 or 1)、此句為 ai 生成的機率、此句的所有詞元對被判別為 1 (ai) 的貢獻度。
 
 ## 結果
-詳細書面報告在 [report.pdf](report.pdf) 中。
+詳細書面報告在 [report.pdf](/deliverables/report.pdf) 中。
