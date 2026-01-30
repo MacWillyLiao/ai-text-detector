@@ -77,3 +77,6 @@ A full-stack project for detecting AI-generated text. Includes data collection, 
 - 載入訓練好的模型執行 AI 生成文本的預測任務。
 - 當文本被判別為 AI 生成時，會使用集成梯度法 (Integrated Gradients) 進一步計算每個詞元 (Token) 對此分類結果的貢獻度。
 - 回傳預測結果 (0 or 1)、此句為 ai 生成的機率、此句的所有詞元對被判別為 1 (ai) 的貢獻度。
+
+## 結果
+詳細書面報告在 [report.pdf](report.pdf) 中。
