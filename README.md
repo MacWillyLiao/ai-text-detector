@@ -11,7 +11,7 @@ A full-stack project for detecting AI-generated text. Includes data collection, 
 
 **CSV 檔案格式**：
 
-<img src="images/fig1.png" alt="示意圖" width="450">
+<img src="images/fig1.png" alt="示意圖" width="500">
 
 【註】範例請見 [sample1.csv](/data/sample1.csv)
 
